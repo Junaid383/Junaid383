@@ -5,15 +5,14 @@
  
  LinkedIn [Junaid](https://www.linkedin.com/in/muhammad-junaid021/)
 
+## Tools and Technologies
 >     JavaScript (ES6 ES7)
-HTML5
-CSS3 (Modules, styled-components)
-React.js (Hooks, Redux (RTK), Router, Context-API)
-Next.js
-Gatsby.js
-Boostrap 5 - react-bootstrap
-TailwindCSS
-Material UI
-Node.js
-MongoDB
-Firebase
+>     HTML5
+>     CSS3 (Modules, styled-components)
+>     React.js (Hooks, Redux (RTK), Router, Context-API)
+>     Boostrap 5 - react-bootstrap
+>     TailwindCSS
+>     Material UI
+>     Node.js
+>     MongoDB
+>     Express.js
