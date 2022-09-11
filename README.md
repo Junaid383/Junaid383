@@ -2,7 +2,8 @@
 
 ## Full Stack Developer(MERN)
    I'm passionate about learning the latest and greatest technologies whether that's the frontend or backend. I spend most of my time learning and experimenting with anything that looks promising. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tool for the problem. I actively take part in sports and extra co-curricular activities.
-  [LinkedIn](https://www.linkedin.com/in/muhammad-junaid021/)
+ 
+ LinkedIn [Junaid](https://www.linkedin.com/in/muhammad-junaid021/)
 <!--
 **Junaid383/Junaid383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
