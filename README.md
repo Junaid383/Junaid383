@@ -4,17 +4,16 @@
    I'm passionate about learning the latest and greatest technologies whether that's the frontend or backend. I spend most of my time learning and experimenting with anything that looks promising. I always want to learn new things and expand my domain of expertise and knowledge. I am an engineer who loves to solve problems and use the best tool for the problem. I actively take part in sports and extra co-curricular activities.
  
  LinkedIn [Junaid](https://www.linkedin.com/in/muhammad-junaid021/)
-<!--
-**Junaid383/Junaid383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>     JavaScript (ES6 ES7)
+HTML5
+CSS3 (Modules, styled-components)
+React.js (Hooks, Redux (RTK), Router, Context-API)
+Next.js
+Gatsby.js
+Boostrap 5 - react-bootstrap
+TailwindCSS
+Material UI
+Node.js
+MongoDB
+Firebase
