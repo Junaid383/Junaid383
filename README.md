@@ -1,7 +1,8 @@
 # Hi, I'm Muhammad Junaid 👋
 
-##Full Stack Developer(MERN)
-    ###React JS , Node JS
+## Full Stack Developer(MERN)
+   
+   ### React JS , Node JS
 <!--
 **Junaid383/Junaid383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
